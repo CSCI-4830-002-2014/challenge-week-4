@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Alexander Tsankov
 
 # How many points have you earned?
 
@@ -20,11 +20,11 @@ fill-in-your-answer
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[title-of-the-article](http://mobihealthnews.com/36636/privacy-concerns-lead-fitbit-to-hire-a-lobbyist-in-dc/)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+My parents both use these wearable health devices, and they have never once considered the privacy implications. There is a large potential for abuse with devices like this. 
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
@@ -72,45 +72,45 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](cp1.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](cp2.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](cp3.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](cp4.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](cp5.png)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](or1.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](or2.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](or3.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](or4.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](or5.png)
 
 ### 6 (4 points)
 
