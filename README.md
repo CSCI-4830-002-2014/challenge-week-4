@@ -1,6 +1,6 @@
 # Name
 
-Dawson Botford
+Dawson Botsford
 
 # How many points have you earned?
 
@@ -122,4 +122,4 @@ fill-in-your-answer
 
 ### 8 (10 points)
 
-![image](http://i.imgur.com/C2FjFPK.png)
+![image](http://i.imgur.com/lBp9XZF.png)
