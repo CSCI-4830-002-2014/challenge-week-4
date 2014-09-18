@@ -20,7 +20,7 @@ fill-in-your-answer
 
 ## Link (3 points)
 
-[title-of-the-article](http://mobihealthnews.com/36636/privacy-concerns-lead-fitbit-to-hire-a-lobbyist-in-dc/)
+[Fitbit hires lobbyist in DC](http://mobihealthnews.com/36636/privacy-concerns-lead-fitbit-to-hire-a-lobbyist-in-dc/)
 
 ## How do you relate to this article personally? (3 points)
 
@@ -114,12 +114,13 @@ My parents both use these wearable health devices, and they have never once cons
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](or6.png)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](or7.png)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](or8.png)
+
