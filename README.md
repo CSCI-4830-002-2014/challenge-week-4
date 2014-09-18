@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Dawson Botford
 
 # How many points have you earned?
 
