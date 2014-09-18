@@ -72,54 +72,54 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/qQ3P9ZJ.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/t5jsNAD.pnghttp://i.imgur.com/qQ3P9ZJ.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/rw4wHVr.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/0GMboOG.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/gEslLMH.png)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/GxJQWEQ.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/CeifYRT.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/HND0Wkd.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/ATKTMcr.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/Bzame1U.png)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/3kgrmeM.png)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/kCtrr7b.pngimage.png?raw=true)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/C2FjFPK.png)
