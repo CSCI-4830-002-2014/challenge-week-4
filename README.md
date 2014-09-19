@@ -1,16 +1,16 @@
 # Name
 
-write-your-name
+Adrian Chen
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4
 
 # What is the most difficult part about this week's challenge?
 
@@ -20,11 +20,11 @@ fill-in-your-answer
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Ted Talk: Gary Wolf](https://www.ted.com/talks/gary_wolf_the_quantified_self)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+I use an app to track my workouts.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
