@@ -24,9 +24,9 @@ The most dificult part was getting restler functioning. There were no introducto
 
 ## How do you relate to this article personally? (3 points)
 
-I am very interested in nutrition, so seeing this chart of weigth loss was very interesting. 
+I am very interested in nutrition, so seeing this chart of weight loss was very interesting. 
 Especially that this reddit user could point out specific meals on his weight chart. 
-Who knew that having the extra portion of pizza and corned beef could show a visible spike for your weight loss!?
+Who knew that having the extra portion of pizza and corned beef could show a visible spike for your losses!?
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
