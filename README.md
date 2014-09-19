@@ -72,23 +72,23 @@ I use an app to track my workouts.
 
 ### 1 (4 points)
 
-![image](Refine_CP1.png?raw=true)
+![image](Refine_CP1.PNG?raw=true)
 
 ### 2 (4 points)
 
-![image](Refine_CP2.png?raw=true)
+![image](Refine_CP2.PNG?raw=true)
 
 ### 3 (4 points)
 
-![image](Refine_CP3.png?raw=true)
+![image](Refine_CP3.PNG?raw=true)
 
 ### 4 (4 points)
 
-![image](Refine_CP4.png?raw=true)
+![image](Refine_CP4.PNG?raw=true)
 
 ### 5 (4 points)
 
-![image](Refine_CP5.png?raw=true)
+![image](Refine_CP5.PNG?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
@@ -98,28 +98,28 @@ I use an app to track my workouts.
 
 ### 2 (4 points)
 
-![image](Refine_CH2.png?raw=true)
+![image](Refine_CH2.PNG?raw=true)
 
 ### 3 (4 points)
 
-![image](Refine_CH3.png?raw=true)
+![image](Refine_CH3.PNG?raw=true)
 
 ### 4 (4 points)
 
-![image](Refine_CH4.png?raw=true)
+![image](Refine_CH4.PNG?raw=true)
 
 ### 5 (4 points)
 
-![image](Refine_CH5.png?raw=true)
+![image](Refine_CH5.PNG?raw=true)
 
 ### 6 (4 points)
 
-![image](Refine_CH6.png?raw=true)
+![image](Refine_CH6.PNG?raw=true)
 
 ### 7 (4 points)
 
-![image](Refine_CH7.png?raw=true)
+![image](Refine_CH7.PNG?raw=true)
 
 ### 8 (10 points)
 
-![image](Refine_CH8.png?raw=true)
+![image](Refine_CH8.PNG?raw=true)
