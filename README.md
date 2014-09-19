@@ -1,16 +1,16 @@
 # Name
 
-write-your-name
+Niklas Fejes
 
 # How many points have you earned?
 
 0/100
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
 fill-in-your-answer
+**note:** Start Friday 1 pm
 
 # What is the most difficult part about this week's challenge?
 
