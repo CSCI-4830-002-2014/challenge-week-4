@@ -94,7 +94,7 @@ I use an app to track my workouts.
 
 ### 1 (4 points)
 
-![image](Refine_CH1.png?raw=true)
+![image](Refine_CH1.PNG?raw=true)
 
 ### 2 (4 points)
 
