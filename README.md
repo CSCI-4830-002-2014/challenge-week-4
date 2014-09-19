@@ -20,7 +20,7 @@ fill-in-your-answer
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[title-of-the-article](http://www.reddit.com/r/loseit/comments/1eqaaw/my_progress_so_far_a_graph_on_what_weight_loss)
 
 ## How do you relate to this article personally? (3 points)
 
