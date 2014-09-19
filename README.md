@@ -4,17 +4,17 @@ Dawson Botsford
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+9
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+The most dificult part was getting restler functioning. There were no introductory or beginner tutorials for what we are doing, so getting the first challenge was very difficult. Props to @peymanmortazavi for the assistance in getting the ball rolling with restler. 
 
 # Show and tell
 
@@ -24,7 +24,9 @@ fill-in-your-answer
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+I am very interested in nutrition, so seeing this chart of weigth loss was very interesting. 
+Especially that this reddit user could point out specific meals on his weight chart. 
+Who knew that having the extra portion of pizza and corned beef could show a visible spike for your weight loss!?
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
