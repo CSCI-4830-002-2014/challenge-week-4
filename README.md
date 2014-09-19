@@ -20,7 +20,7 @@ The most dificult part was getting restler functioning. There were no introducto
 
 ## Link (3 points)
 
-[title-of-the-article](http://www.reddit.com/r/loseit/comments/1eqaaw/my_progress_so_far_a_graph_on_what_weight_loss)
+[My Progress so far, a graph on what weight loss looks like](http://www.reddit.com/r/loseit/comments/1eqaaw/my_progress_so_far_a_graph_on_what_weight_loss)
 
 ## How do you relate to this article personally? (3 points)
 
