@@ -6,8 +6,6 @@ Brian Newsom
 
 100/100
 
-100
-
 # How many hours have you spent on this?
 
 7
