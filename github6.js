@@ -3,7 +3,7 @@ var restler = require('restler');
 var params = {
 	"title" : "Test Issue",
 	"username": "antsankov",
-	"password": "Vistadelor0"
+	"password": "REDACTED"
 }
 restler.postJson('https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-4/issues',params).on('complete', function(repos) {
   if (repos instanceof Error) {
