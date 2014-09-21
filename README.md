@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Logan Bates
 
 # How many points have you earned?
 
