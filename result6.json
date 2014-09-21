@@ -1,1 +1,45 @@
-// Replace this with the data you grabbed from Github (e.g., node github1.js > result1.json) 
+{ url: 'https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-4/issues/
+15',
+  labels_url: 'https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-4/
+issues/15/labels{/name}',
+  comments_url: 'https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-
+4/issues/15/comments',
+  events_url: 'https://api.github.com/repos/CSCI-4830-002-2014/challenge-week-4/
+issues/15/events',
+  html_url: 'https://github.com/CSCI-4830-002-2014/challenge-week-4/issues/15',
+  id: 43342347,
+  number: 15,
+  title: 'Challenge 6',
+  user:
+   { login: 'BrianNewsom',
+     id: 3268911,
+     avatar_url: 'https://avatars.githubusercontent.com/u/3268911?v=2',
+     gravatar_id: '10cb3b420966fe936877535b803cf142',
+     url: 'https://api.github.com/users/BrianNewsom',
+     html_url: 'https://github.com/BrianNewsom',
+     followers_url: 'https://api.github.com/users/BrianNewsom/followers',
+     following_url: 'https://api.github.com/users/BrianNewsom/following{/other_u
+ser}',
+     gists_url: 'https://api.github.com/users/BrianNewsom/gists{/gist_id}',
+     starred_url: 'https://api.github.com/users/BrianNewsom/starred{/owner}{/rep
+o}',
+     subscriptions_url: 'https://api.github.com/users/BrianNewsom/subscriptions'
+,
+     organizations_url: 'https://api.github.com/users/BrianNewsom/orgs',
+     repos_url: 'https://api.github.com/users/BrianNewsom/repos',
+     events_url: 'https://api.github.com/users/BrianNewsom/events{/privacy}',
+     received_events_url: 'https://api.github.com/users/BrianNewsom/received_eve
+nts',
+     type: 'User',
+     site_admin: false },
+  labels: [],
+  state: 'open',
+  locked: false,
+  assignee: null,
+  milestone: null,
+  comments: 0,
+  created_at: '2014-09-21T18:53:04Z',
+  updated_at: '2014-09-21T18:53:04Z',
+  closed_at: null,
+  body: 'I ate breakfast this time.',
+  closed_by: null }
