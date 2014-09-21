@@ -1,30 +1,30 @@
 # Name
 
-write-your-name
+Jake Charland
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+The restler documentation was very poor so it took awhile to get started.
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[what are we reading](http://quantifiedself.com/2014/09/reading-29/)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+It relates back to working out and time spent doing a sport which relates very well to me as I spend a lot of my time rock climbing.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
