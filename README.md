@@ -49,7 +49,7 @@ fill-in-your-answer
 ### 3 (4 points)
 
 * Code: [github3.js](github3.js)
-* Result: [result3.json](result.json)
+* Result: [result3.json](result3.json)
 
 ### 4 (4 points)
 
