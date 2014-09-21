@@ -1,29 +1,37 @@
 # Name
 
-write-your-name
+Brian Newsom
 
 # How many points have you earned?
 
-0/100
+100/100
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+100
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+7
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Getting started with Restler.. I couldn't find a lot of documentation on how to get a simple query going.
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[What I've Learned From Two Years Of Wearables](http://www.pocketgamer.biz/comment-and-opinion/59882/what-ive-learned-from-two-years-of-wearables/)
 
 ## How do you relate to this article personally? (3 points)
 
+I found this article interesting.  It specifically applies to fitness wearables that collect data about workouts, which I've always been interested in but never pursued.  I think the point of the article can be summed up in the following:
+```
+As I stress, though, it's not the data that forces the change.
+
+The more data you get, the less significant it become. What's key is that you are prepared to modify your behaviour.
+```
+
+I believe people like the idea of buying something that will make them change their life through data, but truly that motivation must come from one's self, as data becomes insignificant without any heart behind it.
 fill-in-your-answer
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
@@ -72,54 +80,54 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](orcp1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](orcp2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](orcp3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](orcp4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](orcp5.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge6.png?raw=true)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge7.png?raw=true)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](challenge8.png?raw=true)
