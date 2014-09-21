@@ -72,45 +72,45 @@ It relates back to working out and time spent doing a sport which relates very w
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](cp1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](cp2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](cp3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](cp4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](cp5.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge5.png?raw=true)
 
 ### 6 (4 points)
 
