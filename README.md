@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Justin McBride
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -72,54 +72,54 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](refine1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](refine2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](refine3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](refine4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](refine5.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](refinech1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](refinech2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](refinech3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](refinech4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](refinech5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](refinech6.png?raw=true)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](refinech7.png?raw=true)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](refinech8.png?raw=true)
