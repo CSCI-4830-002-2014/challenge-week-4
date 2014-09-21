@@ -4,7 +4,7 @@ Logan Bates
 
 # How many points have you earned?
 
-0/100
+6/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -20,11 +20,11 @@ fill-in-your-answer
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Forget the Quantified Self. We Need to Build the Quantified Us](http://www.wired.com/2014/04/forget-the-quantified-self-we-need-to-build-the-quantified-us)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+Everyone experiences instances of "Quantified Us" everyday through our usage of electronics. Our phones collect data to report traffic delays and accidents as well as general behavioral patterns. These methods have proven powerful and what the article discusses could help many people, like myself, with certain problems.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 

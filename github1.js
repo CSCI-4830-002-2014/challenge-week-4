@@ -1,6 +1,6 @@
 var rest = require('restler');
 
-rest.get('http://www.google.com').on('complete', function(results) {
+rest.get('https://api.github.com/repositories').on('complete', function(results) {
   if (results instanceof Error) {
     console.log('Error:', results.message);
     this.retry(5000);
