@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Alexia Newgord
 
 # How many points have you earned?
 
@@ -14,17 +14,17 @@ fill-in-your-answer
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+I was unable to post an issue using Restler, even though my syntax and formatting seem to have the correct syntax.
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[5 psychological challenges facing wearables, quantified self and behavior change apps](http://thenextweb.com/dd/2014/09/11/5-psychological-challenges-facing-wearables-quantified-self-behavior-change-apps/)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+I’m really interested in how the Apple watch (and similar devices), can impact our lifestyle when it comes to health and finances.  This article presents reasons that such a product may or may not be used in the real world.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
