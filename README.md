@@ -22,7 +22,7 @@ The very last challenge in Node part.
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+I don't really. I never did any sort of self quantifying.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
@@ -35,7 +35,7 @@ fill-in-your-answer
 
 ### 2 (4 points)
 
-* Code: [github2.js](github23.js)
+* Code: [github2.js](github2.js)
 * Result: [result2.json](result2.json)
 
 ### 3 (4 points)
