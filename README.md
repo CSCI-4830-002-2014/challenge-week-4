@@ -1,30 +1,30 @@
 # Name
 
-write-your-name
+Alexander Tsankov
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4.5
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Getting the regex right for openrefine. 
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Fitbit hires lobbyist in DC](http://mobihealthnews.com/36636/privacy-concerns-lead-fitbit-to-hire-a-lobbyist-in-dc/)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+My parents both use these wearable health devices, and they have never once considered the privacy implications. There is a large potential for abuse with devices like this. 
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
@@ -72,54 +72,55 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](cp1.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](cp2.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](cp3.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](cp4.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](cp5.png)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](or1.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](or2.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](or3.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](or4.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](or5.png)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](or6.png)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](or7.png)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](or8.png)
+
