@@ -4,17 +4,17 @@ Logan Bates
 
 # How many points have you earned?
 
-6/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+2.5
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Trying to figure out how to get my refine to work on my linux distro. Java wasn't set up correctly.
 
 # Show and tell
 
@@ -72,54 +72,54 @@ Everyone experiences instances of "Quantified Us" everyday through our usage of 
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpont1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpont2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpont3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpont4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpont5.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge6.png?raw=true)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge7.png?raw=true)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](challenge8.png?raw=true)
