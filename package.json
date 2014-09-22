@@ -1,0 +1,21 @@
+{
+  "name": "challenge-week-4",
+  "version": "0.0.0",
+  "description": "Challenge4",
+  "main": "github1.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LoganBates/challenge-week-4.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/LoganBates/challenge-week-4/issues"
+  },
+  "dependencies": {
+    "restler": "~3.2.2"
+  }
+}
