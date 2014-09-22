@@ -13,6 +13,7 @@ Jake White
 fill-in-your-answer
 
 # What is the most difficult part about this week's challenge?
+was not able to fully able to operate with restler. could not get the google refine to work on my mac
 
 fill-in-your-answer
 
@@ -72,7 +73,7 @@ Article goes over practical use of this data. I have never used this data, but a
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/FR9gpSr.png?1)
 
 ### 2 (4 points)
 
