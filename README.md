@@ -1,18 +1,19 @@
 # Name
 
-write-your-name
+Jake White
 
 # How many points have you earned?
 
-0/100
+50/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6 hours
 
 # What is the most difficult part about this week's challenge?
+was not able to fully able to operate with restler. could not get the google refine to work on my mac
 
 fill-in-your-answer
 
@@ -20,11 +21,11 @@ fill-in-your-answer
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Data Overload: Is the 'Quantified Self' Really the Future?](http://www.nbcnews.com/tech/innovation/data-overload-quantified-self-really-future-n189596)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+Article goes over practical use of this data. I have never used this data, but am curious to see if it really works and if it will be a trend that will strive in the future
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
@@ -72,45 +73,45 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/FR9gpSr.png?1)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/tgLZMOQ.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/Ns04O2u.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/gnS8sPC.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/4KbeAWJ.png)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/p8py2as.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/3YViEyz.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/nQGDfxq.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/Gmv8Tc4.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/lciwqVe.png)
 
 ### 6 (4 points)
 
