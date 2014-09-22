@@ -1,30 +1,30 @@
 # Name
 
-write-your-name
+Irfan Nadiadi
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+5
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+I initially had a little trouble with the OpenRefine challenges - I had a to redo things a few times, so some of the screenshots may be inconsistent as far as chronological order. I'm not 100% comfortable working with it yet and need a little more practice.
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Not just for the fitness geeks: Health wearables will transform healthcare as we know it.](http://venturebeat.com/2014/08/25/not-just-for-fitness-geeks-health-wearables-will-transform-healthcare-as-we-know-it/)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+The movement toward wearable health technologies is growing rapidly, as the idea of 'life-logging' is very appealing to those interested in bettering their own health and lives. I don't yet have any such devices of my own, though I'm interested in trying some out.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
@@ -72,54 +72,54 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoints/Check 1.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoints/Check 2.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoints/Check 3.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoints/Check 4.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoints/Check 5.png)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/1.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/2.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/3.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/4.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/5.png)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/6.png)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](challenges/7.png)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](challenges/8.png)
