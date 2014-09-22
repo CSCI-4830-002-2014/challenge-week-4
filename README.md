@@ -4,17 +4,19 @@ Alexia Newgord
 
 # How many points have you earned?
 
-0/100
+92/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+Appx 7.5
 
 # What is the most difficult part about this week's challenge?
 
-I was unable to post an issue using Restler, even though my syntax and formatting seem to have the correct syntax.
+I was unable to post an issue using Restler and would like to take a closer look at passing in permissions via some suggestions on issues.
+
+Also, Refine got incredibly slow when working on the challenges, taking up to 99% of the CPU.  I’m not quite sure why this didn’t happen with the tutorial data as well.
 
 # Show and tell
 
@@ -94,32 +96,32 @@ I’m really interested in how the Apple watch (and similar devices), can impact
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](cc1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](cc2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](cc3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](cc4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](cc5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](cc6.png?raw=true)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](cc7.png?raw=true)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](cc8.png?raw=true)
