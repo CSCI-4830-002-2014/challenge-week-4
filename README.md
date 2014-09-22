@@ -1,30 +1,31 @@
 # Name
 
-write-your-name
+Nikita Voskoboynik
 
 # How many points have you earned?
 
-0/100
+65/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4 hours
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Data Overload: Is the 'Quantified Self' Really the Future?]
+(http://www.nbcnews.com/tech/innovation/data-overload-quantified-self-really-future-n189596)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+I work for a healthcare company and these wearable fitness trackers have been a topic of discussion to implement in an incentive program.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
@@ -72,54 +73,54 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/DoHUKX2.jpg)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/S2EU7tR.jpg)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/5TY8iP2.jpg)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/uarcyUr.jpg)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/wuyGAPX.jpg)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/82b2k6b.jpg)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/KR7XRl9.jpg)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/FEFPanx.jpg)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/FEFPanx.jpg)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/EjDjIRj.jpg)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/ihMkBE8.jpg)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/2Y7Ilve.jpg)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+[Imgur](http://i.imgur.com/vYHxwxp.jpg)
