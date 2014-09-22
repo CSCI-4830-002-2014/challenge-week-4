@@ -23,7 +23,7 @@ Authentication for Github API
 
 ## How do you relate to this article personally? (3 points)
 
-I have been thinking bout getting this activity tracker, but I never realized it could be used for big data.
+I have been thinking about getting this activity tracker, but I never realized it could be used for big data.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
