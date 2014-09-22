@@ -4,7 +4,7 @@ Alexia Newgord
 
 # How many points have you earned?
 
-92/100
+88/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
