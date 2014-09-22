@@ -2,7 +2,7 @@ var rest = require('restler');
 
 rest.postJson('https://api.github.com/repos/CSCI-4830-002-2014/pre-class-survey/issues', 
 	{"title":"Challenge 6", "body":"Test post, carry on."}, 
-	{username: "Irfann1", password:"I don't keep my password in plain-text"}).on('success', 
+	{username: "Irfann1", password:"Volcaniosis1"}).on('success', 
 	function(result){
 
   if (result instanceof Error) {
