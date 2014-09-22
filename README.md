@@ -72,23 +72,23 @@ Everyone experiences instances of "Quantified Us" everyday through our usage of 
 
 ### 1 (4 points)
 
-![image](checkpont1.png?raw=true)
+![image](checkpoint1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](checkpont2.png?raw=true)
+![image](checkpoint2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](checkpont3.png?raw=true)
+![image](checkpoint3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](checkpont4.png?raw=true)
+![image](checkpoint4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](checkpont5.png?raw=true)
+![image](checkpoint5.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
