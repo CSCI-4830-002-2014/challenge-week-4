@@ -1,30 +1,30 @@
 # Name
 
-write-your-name
+Logan Bates
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+2.5
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Trying to figure out how to get my refine to work on my linux distro. Java wasn't set up correctly.
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Forget the Quantified Self. We Need to Build the Quantified Us](http://www.wired.com/2014/04/forget-the-quantified-self-we-need-to-build-the-quantified-us)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+Everyone experiences instances of "Quantified Us" everyday through our usage of electronics. Our phones collect data to report traffic delays and accidents as well as general behavioral patterns. These methods have proven powerful and what the article discusses could help many people, like myself, with certain problems.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
@@ -72,54 +72,54 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](checkpoint5.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge6.png?raw=true)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](challenge7.png?raw=true)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](challenge8.png?raw=true)
