@@ -1,30 +1,29 @@
 # Name
 
-write-your-name
+Niklas Fejes
 
 # How many points have you earned?
 
-0/100
+100/100
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6 hours
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Authentication for Github API
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Jawbone opens a window to our humanity-tracking future](http://arstechnica.com/business/2014/08/your-data-is-now-a-de-facto-part-of-a-massive-sleep-study/)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+I have been thinking about getting this activity tracker, but I never realized it could be used for big data.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
@@ -72,54 +71,55 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/checkpoint1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/checkpoint2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/checkpoint3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/checkpoint4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/checkpoint5.png?raw=true)
+![image](screenshots/checkpoint5b.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge6.png?raw=true)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge7.png?raw=true)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge8.png?raw=true)
