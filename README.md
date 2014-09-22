@@ -4,7 +4,7 @@ Niklas Fejes
 
 # How many points have you earned?
 
-36/100
+94/100
 
 
 # How many hours have you spent on this?
@@ -14,7 +14,7 @@ fill-in-your-answer
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Authentication for Github API
 
 # Show and tell
 
@@ -72,54 +72,54 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/checkpoint1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/checkpoint2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/checkpoint3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/checkpoint4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/checkpoint5.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge6.png?raw=true)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge7.png?raw=true)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](screenshots/challenge8.png?raw=true)
