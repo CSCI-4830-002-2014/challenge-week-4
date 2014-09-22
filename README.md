@@ -1,6 +1,6 @@
 # Name
 
-write-your-name
+Jake White
 
 # How many points have you earned?
 
@@ -20,11 +20,11 @@ fill-in-your-answer
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Data Overload: Is the 'Quantified Self' Really the Future?](http://www.nbcnews.com/tech/innovation/data-overload-quantified-self-really-future-n189596)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+Article goes over practical use of this data. I have never used this data, but am curious to see if it really works and if it will be a trend that will strive in the future
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
