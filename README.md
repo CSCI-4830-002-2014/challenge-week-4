@@ -4,13 +4,12 @@ Niklas Fejes
 
 # How many points have you earned?
 
-94/100
+100/100
 
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
-**note:** API: 3h
+6 hours
 
 # What is the most difficult part about this week's challenge?
 
@@ -20,11 +19,11 @@ Authentication for Github API
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Jawbone opens a window to our humanity-tracking future](http://arstechnica.com/business/2014/08/your-data-is-now-a-de-facto-part-of-a-massive-sleep-study/)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+I have been thinking bout getting this activity tracker, but I never realized it could be used for big data.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
@@ -89,6 +88,7 @@ fill-in-your-answer
 ### 5 (4 points)
 
 ![image](screenshots/checkpoint5.png?raw=true)
+![image](screenshots/checkpoint5b.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
