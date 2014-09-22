@@ -1,30 +1,30 @@
 # Name
 
-write-your-name
+Adrian Chen
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+The most difficult part was figuring out how to get the java working with the Week 3 challenges.
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Ted Talk: Gary Wolf](https://www.ted.com/talks/gary_wolf_the_quantified_self)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+I use an app to track my workouts.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
@@ -72,54 +72,54 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](Refine_CP1.PNG?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](Refine_CP2.PNG?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](Refine_CP3.PNG?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](Refine_CP4.PNG?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](Refine_CP5.PNG?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](Refine_CH1.PNG?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](Refine_CH2.PNG?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](Refine_CH3.PNG?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](Refine_CH4.PNG?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](Refine_CH5.PNG?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](Refine_CH6.PNG?raw=true)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](Refine_CH7.PNG?raw=true)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](Refine_CH8.PNG?raw=true)
