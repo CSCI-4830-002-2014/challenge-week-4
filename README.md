@@ -1,32 +1,34 @@
 # Name
 
-write-your-name
+Michael Aaron
 
 # How many points have you earned?
 
-0/100
+100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Forget the Quantified Self, We need to Build the Quantified Us](http://www.wired.com/2014/04/forget-the-quantified-self-we-need-to-build-the-quantified-us/)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+The implications in the article are natural and interseting: we get more useful data about ourselves if we are able to compare our gathered data with others. The article argues for a "Quantified Us", but ignores the security and privacy implications that suggests. I worked for Center for Democracy and Technology this summer and one of the largest projects they work on is preserving privacy in a digital age. I learned two things from that experience; most users don't care and it is -hard- from a developers point of view to ensure all the data you collect is private. As we move toward a quantified self/us I hope we are able to keep privacy implications in mind.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
+
+
 
 ## Challenges
 
@@ -72,54 +74,54 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/mke3o7lgvbf4o4w/Screenshot%202014-09-21%2017.35.38.png?dl=1)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/cuwgc23sh9d7abz/Screenshot%202014-09-21%2017.45.24.png?dl=1)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/mbktgtt1ps5yjji/Screenshot%202014-09-21%2018.18.22.png?dl=1)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/sbbrlky99c8snjx/Screenshot%202014-09-21%2018.22.04.png?dl=1)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/c11fie33hg0yzw9/Screenshot%202014-09-21%2018.26.20.png?dl=1)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/qepidmlz2ogv78y/Screenshot%202014-09-21%2018.36.08.png?dl=1)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/my228r1ngwqn7j2/Screenshot%202014-09-21%2018.39.07.png?dl=1)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/h4wx3jjsdys9oxh/Screenshot%202014-09-21%2018.39.35.png?dl=1)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/o4hkqvhjvekiy26/Screenshot%202014-09-21%2018.49.17.png?dl=1)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/an56wxtal3ieikz/Screenshot%202014-09-21%2018.49.58.png?dl=1)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/z89q9tvjju85sz9/Screenshot%202014-09-21%2019.03.09.png?dl=1)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/rt6znfvpkro2547/Screenshot%202014-09-21%2019.04.27.png?dl=1)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/s5nfznw29arrmdo/Screenshot%202014-09-21%2019.11.49.png?dl=1)
