@@ -1,30 +1,29 @@
 # Name
 
-write-your-name
+Daniel Nolan
 
 # How many points have you earned?
-
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+~8 hours
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+I would have to say that the last two challenges of Refine took me a bit and just getting Node and the js files up and running gave me a little trouble. It was more of the installing through Windows that I had to give up on and then end up doing on my VM instead.
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Building a Sleep Tracker for Your dog Using Tessel and Twilio](https://www.twilio.com/blog/2014/09/building-a-sleep-tracker-for-your-dog-using-tessel-and-twilio.html?utm_source=javascriptweekly&utm_medium=email)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+I have two dogs at home and always have a curiousity as to how long they sleep a day, where they go, and what they do all day when I am gone. I have a cat in my apartment who sleeps even longer than a dog so I'm sure tracking her sleep patterns and where she goes outside would be very interesting to discover.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
@@ -72,54 +71,54 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/1sqn09L.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/M4VJfLW.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/4PKTQ8c.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/EBqLdcH.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/g481Mkp.png)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/6ph5VwS.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/k8c7PiY.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/aAqzBzP.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/fh4fwxh.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/Snkdq8H.png)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/jQ2d7Es.png)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/NLxr5Lj.png)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](http://imgur.com/gpdgyyk.png)
