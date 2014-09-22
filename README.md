@@ -72,23 +72,23 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/um6seadqu16995e/Screenshot%202014-09-21%2020.39.00.png?dl=1)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/21bacm943968j77/Screenshot%202014-09-21%2021.02.57.png?dl=1)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/1xrh3daah5lo4yf/Screenshot%202014-09-21%2021.07.37.png?dl=1)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/tyqlrbpyd0cjh9j/Screenshot%202014-09-21%2021.14.35.png?dl=1)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](https://www.dropbox.com/s/n4tc8v6bxn58v5q/Screenshot%202014-09-21%2021.20.40.png?dl=1)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
