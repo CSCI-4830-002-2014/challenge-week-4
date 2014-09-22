@@ -72,23 +72,23 @@ I’m really interested in how the Apple watch (and similar devices), can impact
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](c1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](c2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](c3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](c4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](c5.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
