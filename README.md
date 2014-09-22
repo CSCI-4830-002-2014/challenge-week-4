@@ -1,30 +1,28 @@
 # Name
 
-write-your-name
+Chris Wittenebrg
 
 # How many points have you earned?
 
-0/100
-
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
+100/100
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+6 hours
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+A toss-up between getting the post request to work with javascript and the regular expressions in Google Refine.
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Counting every moment](http://www.economist.com/node/21548493
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+It is encouraging to see how beneficial data, when tracked and analyzed, can help to improve the lives of everyday people. I thought it was really cool how a Swedish engineer was able to figure out the best drug combination to combat her Parkinson's disease. I have looked at apps that help you track your calorie intake with the amount of exercise you get, as I am particularly interested in tracking my health to become more physically fit. I've also been hearing a lot of doctors talking more and more about preventative care and how that would greatly decrease healthcare costs; self-quantification is an incredible tool that lets us be active in staying healthy and improving our lives. 
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
@@ -72,54 +70,54 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](C4Checkpoint1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](C4Checkpoint2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](C4Checkpoint3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](C4Checkpoint4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](C4Checkpoint5.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](C4GRChallenge1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](C4GRChallenge2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](C4GRChallenge3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](C4GRChallenge4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](C4GRChallenge5.png?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](C4GRChallenge6.png?raw=true)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](C4GRChallenge7.png?raw=true)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](C4GRChallenge8.png?raw=true)
