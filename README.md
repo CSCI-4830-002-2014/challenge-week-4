@@ -4,13 +4,13 @@ Niklas Fejes
 
 # How many points have you earned?
 
-0/100
+36/100
 
 
 # How many hours have you spent on this?
 
 fill-in-your-answer
-**note:** Start Friday 1 pm
+**note:** API: 3h
 
 # What is the most difficult part about this week's challenge?
 
