@@ -8,7 +8,7 @@ Austin Wood
 
 # How many hours have you spent on this?
 
-3
+4
 
 # What is the most difficult part about this week's challenge?
 
@@ -70,23 +70,23 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 1](images/refine_cp1.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 2](images/refine_cp2.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 3](images/refine_cp3.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 4](images/refine_cp4.png?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![checkpoint 5](images/refine_cp5.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
