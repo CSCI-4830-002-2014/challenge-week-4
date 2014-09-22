@@ -6,25 +6,23 @@ Justin McBride
 
 100/100
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
-
 # How many hours have you spent on this?
 
-fill-in-your-answer
+2.5 hours
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Replicating the results of small refinements exactly as presented. 
 
 # Show and tell
 
 ## Link (3 points)
 
-[title-of-the-article](http://link-to-an-interesting-article-about-the-notion-of-quantified-self)
+[Data Overload: Is the 'Quantified Self' Really the Future?](http://www.nbcnews.com/tech/innovation/data-overload-quantified-self-really-future-n189596)
 
 ## How do you relate to this article personally? (3 points)
 
-fill-in-your-answer
+The article brings to light my increasing reliance on technolgy and various devices to keep track of everything about myself-- how much I run and bike, when I'm sleeping, and the times that I get the most done. This really is a new era for humans, as we become more productive and effecient.
 
 # API (II) (5 points x 4 + 8 points x 2 = 36 points)
 
