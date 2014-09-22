@@ -14,7 +14,7 @@ Adrian Chen
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+The most difficult part was figuring out how to get the java working with the Week 3 challenges.
 
 # Show and tell
 
