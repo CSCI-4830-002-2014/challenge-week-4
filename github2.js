@@ -5,6 +5,6 @@ rest.get('https://api.github.com/orgs/csci-4830-002-2014/repos').on('complete', 
     console.log('Error:', result.message);
     this.retry(5000); // try again after 5 sec
   } else {
-    console.log(JSON.stringify(result));
+    console.log(result);
   }
 });
