@@ -37,7 +37,7 @@ fill-in-your-answer
 
 ### 2 (4 points)
 
-* Code: [github2.js](github23.js)
+* Code: [github2.js](github2.js)
 * Result: [result2.json](result2.json)
 
 ### 3 (4 points)
