@@ -3,7 +3,7 @@
 Daniel Nolan
 
 # How many points have you earned?
-77/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -13,7 +13,7 @@ Daniel Nolan
 
 # What is the most difficult part about this week's challenge?
 
-I would have to say that the last two challenges of Refine took me a bit and just getting Node and the js files up and running gave me a little trouble.
+I would have to say that the last two challenges of Refine took me a bit and just getting Node and the js files up and running gave me a little trouble. It was more of the installing through Windows that I had to give up on and then end up doing on my VM instead.
 
 # Show and tell
 
