@@ -4,7 +4,7 @@ Irfan Nadiadi
 
 # How many points have you earned?
 
-100/100
+90/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -122,4 +122,5 @@ The movement toward wearable health technologies is growing rapidly, as the idea
 
 ### 8 (10 points)
 
+I wasn't able to complete this challenge.
 ![image](challenges/8.png)
