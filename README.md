@@ -77,41 +77,41 @@ Article goes over practical use of this data. I have never used this data, but a
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/tgLZMOQ.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/Ns04O2u.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/gnS8sPC.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/4KbeAWJ.png)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/p8py2as.png)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/3YViEyz.png)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/nQGDfxq.png)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/Gmv8Tc4.png)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/lciwqVe.png)
 
 ### 6 (4 points)
 
