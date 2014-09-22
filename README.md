@@ -1,16 +1,14 @@
 # Name
 
-write-your-name
+Austin Wood
 
 # How many points have you earned?
 
 0/100
 
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
-
 # How many hours have you spent on this?
 
-fill-in-your-answer
+3
 
 # What is the most difficult part about this week's challenge?
 
@@ -32,37 +30,37 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-* Code: [github1.js](github1.js)
+* Code: [github1.coffee](github1.coffee)
 * Result: [result1.json](result1.json)
 
 ### 2 (4 points)
 
-* Code: [github2.js](github23.js)
+* Code: [github2.coffee](github23.coffee)
 * Result: [result2.json](result2.json)
 
 ### 3 (4 points)
 
-* Code: [github3.js](github3.js)
+* Code: [github3.coffee](github3.coffee)
 * Result: [result3.json](result.json)
 
 ### 4 (4 points)
 
-* Code: [github4.js](github4.js)
+* Code: [github4.coffee](github4.coffee)
 * Result: [result4.json](result4.json)
 
 ### 5 (4 points)
 
-* Code: [github5.js](github5.js)
+* Code: [github5.coffee](github5.coffee)
 * Result: [result5.json](result5.json)
 
 ### 6 (8 points)
 
-* Code: [github6.js](github6.js)
+* Code: [github6.coffee](github6.coffee)
 * Result: [result6.json](result6.json)
 
 ### 7 (8 points)
 
-* Code: [github7.js](github7.js)
+* Code: [github7.coffee](github7.coffee)
 * Result: [result7.json](result7.json)
 
 
