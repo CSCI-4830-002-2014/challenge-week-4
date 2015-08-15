@@ -1,20 +1,19 @@
 # Name
 
-write-your-name
+Jose Vieitez
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
-
+3
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+understanding how node and restler worked in the file system as it took me a while to find how to even call them correctly
 
 # Show and tell
 
@@ -37,13 +36,13 @@ fill-in-your-answer
 
 ### 2 (4 points)
 
-* Code: [github2.js](github23.js)
+* Code: [github2.js](github2.js)
 * Result: [result2.json](result2.json)
 
 ### 3 (4 points)
 
 * Code: [github3.js](github3.js)
-* Result: [result3.json](result.json)
+* Result: [result3.json](result3.json)
 
 ### 4 (4 points)
 
@@ -72,54 +71,54 @@ fill-in-your-answer
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/Zwr45BE.jpg?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/1af410L.png?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/XNdnDPX.jpg?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/WtWWAZB.jpg?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/lzLXTy3.png?raw=true)
 
 ## Challenges (4 points x 7 + 10 points x 1 = 38 points)
 
 ### 1 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/O2JBqN7.png?raw=true)
 
 ### 2 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/Y11YCuk.jpg?raw=true)
 
 ### 3 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/ZlCNZak.png?raw=true)
 
 ### 4 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/LeOmkDn.jpg?raw=true)
 
 ### 5 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/rpkawIX.jpg?raw=true)
 
 ### 6 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/h1sMd7Z.jpg?raw=true)
 
 ### 7 (4 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/kuJ8Zbv.png?raw=true)
 
 ### 8 (10 points)
 
-![image](image.png?raw=true)
+![image](http://i.imgur.com/fmK8gDB.png?raw=true)
