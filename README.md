@@ -2,12 +2,6 @@
 
 Jake White
 
-# How many points have you earned?
-
-50/100
-
-(Make your own calculation and replace the number 0 with the points you think you've earned.)
-
 # How many hours have you spent on this?
 
 6 hours
